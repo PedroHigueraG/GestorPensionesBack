@@ -26,8 +26,8 @@ pip install -r requirements.txt
 ## Ejecución
 
 1. Inicia el servidor:
-'''
+```
 fastapi dev main.py
-
+```
 
 2. Abre tu navegador en http://127.0.0.1:8000/docs para acceder a la documentación interactiva.
